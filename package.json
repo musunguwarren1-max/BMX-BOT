@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "libsignal-node": "^2.0.1",
+    "pino": "^10.2.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
