@@ -1,0 +1,5 @@
+auth_info/
+node_modules/
+WPP_Profile/
+__pycache__/
+*.log
